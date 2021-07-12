@@ -9,7 +9,7 @@
 以下の手順になります。
 - このリポジトリを**fork**する
 - forkしたリポジトリを**clone**して自分のPCに取り込む
-- Markdown形式で文書を作成し、**commit*と**push**
+- Markdown形式で文書を作成し、**commit* と **push**
 - pushした後、Pull Reqeusetを出しhてください。
 
 [こちらの資料](https://docs.google.com/presentation/d/169-YBqHCO3yCW4bchHUy7WWkCKWL89AFV2LKN6gINzU/edit?usp=sharing)も参考にしてください。
