@@ -12,7 +12,7 @@
 - Markdown形式で文書を作成し、**commit*と**push**
 - pushした後、Pull Reqeusetを出しhてください。
 
-[こちらの資料](https://docs.google.com/presentation/d/169-YBqHCO3yCW4bchHUy7WWkCKWL89AFV2LKN6gINzU/edit?usp=sharing){:target="_blank"}も参考にしてください。
+[こちらの資料](https://docs.google.com/presentation/d/169-YBqHCO3yCW4bchHUy7WWkCKWL89AFV2LKN6gINzU/edit?usp=sharing)も参考にしてください。
 
 ## ファイル名
 ファイル名は「出席番号-名前.md」としてください。
@@ -21,7 +21,7 @@
 **出席番号が一桁の方は先頭に0をつけて二桁になるようにしてください。**
 
 ## Markdown記法について
-Markdown記法については、[こちら](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa){:target="_blank"}を参考にしてください。
+Markdown記法については、[こちら](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa)を参考にしてください。
 
 ## 画像の埋め込み方
 画像の埋め込みについては、こちらを参考にしてください。
